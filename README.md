@@ -1,1 +1,1 @@
-Codul a fost facut in pyhton folosind VS Code.Este foarte simplu de utilizat,se copiaza toate fisierele intr un folder si accesati fisierele folosind VS Code.
+Codul a fost facut in pyhton folosind VS Code.Este foarte simplu de utilizat,se copiaza toate fisierele intr un folder si accesati fisierele folosind VS Code.Nu am putut adauga api key urile din motive de siguranta,lipseste fiserul ".env".
